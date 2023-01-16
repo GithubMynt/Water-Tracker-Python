@@ -5,5 +5,6 @@ A GUI app for keeping track of how many cups of water you have drank in the last
 ```bash
 git clone https://github.com/GithubMynt/Water-Tracker-Python 
 cd Water-Tracker-Python
+pip install -r requirements.txt 
 python3 main.py
 ``` 
